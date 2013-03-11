@@ -1,0 +1,124 @@
+body {
+	margin:0 auto;
+	padding-top: 50px;
+	padding-right: 200px;
+	padding-left: 200px;
+/*background-color:#939598;*/
+/*background-image: url(../images/background.gif);*/
+background-image: url(../images/NSLinenBackgroundPattern.png);
+/*background-color: gray;*/}
+	#content {
+		overflow: auto;
+		height: 100;
+		padding-left: 50px;}
+
+	#nav, #feature, #footer {
+		background-color: #a1a1a1;
+		padding:10px;
+		margin:10px;}
+	#nav {
+			font-size: 25px;
+			font: sans-serif;}
+	
+	#footer {
+			clear: both;
+			margin: auto;
+			}
+	#header {
+		float: left;
+		width:400px;
+		height:531px;
+		margin:13px;
+		padding-left: 30px;}
+		border: 20px;
+		margin
+	-moz-box-shadow:1px 3px 15px #555;
+    -webkit-box-shadow:1px 3px 15px #555;
+    box-shadow:1px 3px 15px #555;}
+		
+		p.header {
+			width:200px;
+		font-size: 60px;}
+
+
+	.column1, .column2, .column3 {
+			background-color: gray;
+			width:300px;
+			float:left;
+			margin: 10px;}
+		/*li {
+			display:inline;
+			padding: 10px}*/
+		a:link {
+				color: white
+				;}	
+		a:link {
+		 text-decoration:none;}
+
+		 .column1{
+		}
+		.hidden {
+    display: none;
+}
+.heading {
+	display:left;
+	font-family: sans-serif;
+/*	color: #f7931e;*/
+color:black;
+margin:5px;
+}
+	ul.accordion li{
+    /*float:left;*/
+    /*clear: float;*/
+    top-padding: 160px;
+    /*padding-left: 30px;*/
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    width:200px;
+    height:265px;
+    display:inline-block;
+    /*border-right:2px solid orange;*/
+   
+    border:5px solid #f7931e;
+    background-color:white;
+    background-repeat:no-repeat;
+    background-position:center center;
+    position:relative;
+    overflow:hidden;
+    cursor:pointer;
+    -moz-box-shadow:1px 3px 15px #555;
+    -webkit-box-shadow:1px 3px 15px #555;
+    box-shadow:1px 3px 15px #555;}
+
+h2{
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 70px;
+	font-weight: regular;
+	/*color: #f7931e;*/
+	color:#f7931e;
+	margin-bottom: 5px;
+	margin-top: 15px;
+}
+h3 {
+	text-align: center;
+	font-family: "Trebuchet MS", sans-serif;
+	/*color: #f7931e;*/
+	color:#f7931e;
+	font-size: 25px;
+	margin-top: 0px;
+	/*font-size: 15px;*/
+
+}
+p {display: none;
+margin-left: 20px;
+margin-right: 20px;
+font-family: "Trebuchet MS", sans-serif;
+}
+
+ li.bg6 p {
+	/*margin-left: 100px ;*/
+	text-align: center;
+}
+
